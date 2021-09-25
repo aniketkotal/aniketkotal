@@ -40,8 +40,8 @@
     src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"
   />
 
-  ## About me - Just a student who enjoys coding from heart I'm just a student,
-  currently studying Computer Science at
+  ## About me - Just a student who enjoys coding from heart~
+  I'm just a student, currently studying Computer Science at
   <a href="https://www.paruluniversity.ac.in/">Parul University</a>. I'm
   learning to be a Full Stack WebDev. Learning TypeScript currently. I usually
   code for hours, play games on
