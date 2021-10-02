@@ -2,7 +2,7 @@
   <img src="hm.gif" alt="weeeeee" />
 </p>
 
-<h1 align="center">Hi, I'm mightykiller~ ヾ(・ω・*)!</h1>
+<h1 align="center">Hi, I'm Aniket~ ヾ(・ω・*)!</h1>
 
 <h1 align="center">Languages I know~</h1>
 <p align="center">
