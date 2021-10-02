@@ -41,9 +41,9 @@
   />
 
   ## About me - Just a student who enjoys coding from heart~
-  I'm just a student, currently studying Computer Science at
+  I'm a student currently, studying Computer Science at
   <a href="https://www.paruluniversity.ac.in/">Parul University</a>. I'm
-  learning to be a Full Stack WebDev. Learning TypeScript currently. I usually
+  learning to be a Full Stack WebDev. All the languages and tools above. Learning TypeScript currently. I usually
   code for hours, play games on
   <a href="https://steamcommunity.com/id/mightykillrr/">Steam</a>. Some of my
   fav games would be CS:GO, Minecraft, and GTA V. I also love listening to music
