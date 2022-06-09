@@ -84,26 +84,8 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mightykillrr&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=mightykillrr&show_icons=true&count_private=true&hide_border=true" align="left" /></div>  
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mightykillrr&hide_border=true&layout=compact" align="left" />  
 
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=mightykillrr&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center"></div>
-<br />
+<br/>
