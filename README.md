@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Vue.js and GraphQL  
   
 
-- 👨‍💻 All of my projects are available on [my website](https://aniketkotal.vercel.app)!
+- 👨‍💻 All of my projects are available on [my website](https://aniketkotal.me)!
   
   
 
