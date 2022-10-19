@@ -57,7 +57,7 @@ Scroll down to know more!<br>
  <summary><b>Github Stats</b></summary>
 <br>
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=mightykillrr&show_icons=true&theme=highcontrast&hide_border=true) ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=mightykillrr&theme=synthwave&hide_border=true&line_height=27&width=20)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=mightykillrr&show_icons=true&theme=highcontrast&hide_border=true) ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=mightykillrr&theme=highcontrast&hide_border=true)
 
 </details>
 
